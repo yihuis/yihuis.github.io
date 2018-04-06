@@ -1,8 +1,19 @@
-# yihuis.github.io
+﻿# yihuis.github.io
 
-# Header1
+# 发布内容
 ABCD
-## Header 2
+```shell
+
+git clone https://github.com/username/username.github.io
+
+```
+```shell
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+## 下载master分支
 ABCD...
 ### Header 3
 ABCD...
